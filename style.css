@@ -14,7 +14,7 @@ a:link {
 nav {
           color: white;
           font-size: 18px;
-          background-image: url("./the-flatiron-building.png");
+          background-image: url("the-flatiron-building.png");
 }
 
 #broadway{
@@ -34,7 +34,7 @@ nav {
 }
 
 #newyork{
-          background-image: url("./the-flatiron-building.png");
+          background-image: url("the-flatiron-building.png");
           font-size: 23px;
           color: white;
 }
